@@ -28,7 +28,7 @@ Slno. Attribute Description
 6. Type Paid or Free
 7. Price Price of the app
 8. Content Rating Age group the app is targeted at - children/Mature 21+ /Adult
-9. 9. Genres An app can belong to multiple genres (apart from its main category). For eg. a
+9. Genres An app can belong to multiple genres (apart from its main category). For eg. a
 musical family game will belong to Music, Game, Family genres.
 10. Last Updated Date when the app was last updated on play store.
 11. Current Ver Current version of the app available on play store.
